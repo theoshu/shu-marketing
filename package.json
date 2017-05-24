@@ -1,7 +1,7 @@
 {
-  "name": "shu marketing associates",
-  "description": "Public website of shumarketing.com",
-  "version": "1.0.0",
+  "name": "shu-marketing",
+  "description": "public website of shumarketing.com",
+  "version": "0.0.1",
   "author": "Theo Shu",
   "dependencies": {
     "gatsby": "^0.12.45",
